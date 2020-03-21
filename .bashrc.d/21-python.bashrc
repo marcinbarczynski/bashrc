@@ -1,0 +1,2 @@
+export PYTHONUTF8=1
+
